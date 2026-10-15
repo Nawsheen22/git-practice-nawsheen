@@ -1,5 +1,30 @@
 # Git Practice Project
 
-Author: Nawsheen
+**Author:** Nawsheen
 
-This project is for practicing Git and GitHub. It has a small Python program that prints my name and today's date. Later commits add simple calculator functions.
+## About
+
+This project is for practicing Git and GitHub. It has a small Python program that:
+
+- Prints my name
+- Prints today's date
+- Runs simple calculator functions
+
+## Project Structure
+
+```
+git-practice-nawsheen/
+├── README.md
+├── .gitignore
+├── src/
+│   ├── main.py
+│   └── utils.py
+└── docs/
+    └── project-description.md
+```
+
+## How to Run
+
+```bash
+python src/main.py
+```
